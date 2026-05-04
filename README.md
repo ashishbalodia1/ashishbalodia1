@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<# 💫 About Me:
+💫 About Me:
 🎓 Electronics and Telecommunication Engineering student at IET DAVV.<br>💬 Passionate about Software engineering and meaningful Technologies.<br>🔭 I’m currently working on Data Science projects.<br>🌱 Currently learning Python, Data manipulation, EDA and ML.<br>
 
 
