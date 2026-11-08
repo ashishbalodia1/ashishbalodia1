@@ -17,7 +17,7 @@
 Check out my categorized technical portfolio:
 
 ## Explore My Projects
-### [View My Complete Project Portfolio](https://github.com/ashishbalodia1/ashish-balodia-portfolio)
+### [View My Complete Project Portfolio](https://github.com/ashishbalodia1/ashish-balodia1-portfolio)
 Check out my categorized technical portfolio:
 
 | Domain | Explore |
