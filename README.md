@@ -27,6 +27,21 @@ Check out my categorized technical portfolio:
 | Python Development | [Projects](YOUR_LINK) |
 
 ---
+## Explore My Projects
+
+Check out my categorized technical portfolio:
+
+### [View My Complete Project Portfolio](https://github.com/ashishbalodia1/ashish-balodia-portfolio)
+
+| Domain | Explore |
+|---|---|
+| Data Science | [Projects](https://github.com/ashishbalodia1/Data-Science-Projects) |
+| Machine Learning | [Projects](https://github.com/ashishbalodia1/Machine-Learning-Projects) |
+| Deep Learning | [Projects](https://github.com/ashishbalodia1/Deep-Learning-Projects) |
+| Web Development | [Projects](https://github.com/ashishbalodia1/Web-Development-Projects) |
+| Python Development | [Projects](https://github.com/ashishbalodia1/Python-Projects) |
+
+---
 
 ## Connect With Me
 
